@@ -5,6 +5,7 @@ contract DweetSent {
     uint256 id;
     //uint public lCount = 0;
     //uint public rCount = 0 ;
+    const Dweet_id;
     struct Dweet 
     {
     uint256 id;
